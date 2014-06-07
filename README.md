@@ -5,4 +5,10 @@ Data and code associated with Venkiteswaran, Schiff, and Wallin. 2014. *Large Ca
 
 The raw data are csv files.
 
-The code are Matlab m files.
+* Dates are yyyy/mm/dd
+* δ13C-DIC values are in ‰ vs VPDB
+* DIC concentrations are in µmol/L
+* Temperatures are in °C
+* Depths are in cm
+
+The code are Matlab M files.
