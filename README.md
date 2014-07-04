@@ -1,7 +1,7 @@
 CO2-from-headwater-streams
 ==========================
 
-Data and code associated with Venkiteswaran, Schiff, and Wallin. 2014. *Large Carbon Dioxide Fluxes From Headwater Boreal and Sub-Boreal Streams*. PLoS ONE PONE-D-13-38583. Accepted 2014-06-11.
+Data and code associated with Venkiteswaran, Schiff, and Wallin. 2014. *Large Carbon Dioxide Fluxes From Headwater Boreal and Sub-Boreal Streams*. PLoS ONE PONE-D-13-38583. Accepted 2014-06-11. doi: [10.1371/journal.pone.0101756](http://dx.doi.org/10.1371/journal.pone.0101756)
 
 The raw data are csv files.
 
