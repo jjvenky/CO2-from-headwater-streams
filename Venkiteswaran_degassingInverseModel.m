@@ -1,5 +1,5 @@
 function [DICconcinit, d13CDICinit, pHinit, GWmodel, CO2lost, DICconcmodel, d13CDICmodel, pHmodel, volumemodel] = degassingInverseModel(DICconc, d13CDIC, pH, Temperature, d13CDICinit, Q)
-%% Inverse model for CO2 degassing from streams (Venkiteswaran et al. submitted to PLoS ONE)
+%% Inverse model for CO2 degassing from streams (Venkiteswaran et al. 2014 PLoS ONE 9(7): e101756, doi: 10.1371/journal.pone.0101756)
 % Model takes the forward degassing model and wraps it with fminsearch and
 % bounds and tries to find a solution for the initial conditions that lead
 % to the measured DIC and d13CDIC values.

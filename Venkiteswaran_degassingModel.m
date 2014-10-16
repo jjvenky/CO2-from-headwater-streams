@@ -1,5 +1,5 @@
 function [DICconc, d13CDIC, gemass, CO2conc, d13CCO2, pH, Alkconc, volume, geiso] = degassingModel(DICconcinit, d13CDICinit, pHinit, Temperature, varargin)
-%% DIC-Alk-CO2 degassing model (Venkiteswaran et al. submitted to PLoS ONE)
+%% DIC-Alk-CO2 degassing model (Venkiteswaran et al. 2014 PLoS ONE 9(7): e101756, doi: 10.1371/journal.pone.0101756)
 % starting with DIC and pH and calculating from there
 %
 % [DICconc, d13CDIC, gemass, CO2conc, d13CCO2, pH, Alkconc] = ...
