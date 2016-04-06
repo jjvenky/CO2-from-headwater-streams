@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/21259/jjvenky/CO2-from-headwater-streams.svg)](https://zenodo.org/badge/latestdoi/21259/jjvenky/CO2-from-headwater-streams)
+
 CO2-from-headwater-streams
 ==========================
 
